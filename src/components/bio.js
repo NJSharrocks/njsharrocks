@@ -54,11 +54,11 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        By <strong>{author}</strong>, a Masters of Research student at Edge Hill University, UK. Working towards
+        using tech to help in conservation.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          You should follow on <a href={`https://twitter.com/${social.twitter}`}> Twitter where regular tech and
+          conservation tweets meet occasional NFL, NHL and general life musings (and dogs!).
         </a>
       </p>
     </div>
