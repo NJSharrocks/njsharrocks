@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `NJSharrocks`,
+    title: `NJSharrocks - Blog`,
     author: `Nathan James Sharrocks`,
     description: `At this moment, I've no idea.`,
     siteUrl: `https://compassionate-mccarthy-cd3cd8.netlify.com/`,
@@ -44,13 +44,13 @@ module.exports = {
           `gatsby-remark-smartypants`,
         ],
       },
+      //trackingId: `ADD YOUR TRACKING ID HERE`,
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
       },
     },
     `gatsby-plugin-feed`,
