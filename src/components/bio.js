@@ -57,9 +57,9 @@ const Bio = () => {
         By <strong>{author}</strong>, a Masters of Research student at Edge Hill University, UK. Working towards
         using tech to help in conservation.
         {` `}
-          You should follow on <a href={`https://twitter.com/${social.twitter}`}> Twitter where regular tech and
+          You should follow on <a href={`https://twitter.com/${social.twitter}`}> Twitter </a>where regular tech and
           conservation tweets meet occasional NFL, NHL and general life musings (and dogs!).
-        </a>
+
       </p>
     </div>
   )
