@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `NJSharrocks`,
-    author: `NJSharrocks`,
+    author: `Nathan James Sharrocks`,
     description: `At this moment, I've no idea.`,
     siteUrl: `https://compassionate-mccarthy-cd3cd8.netlify.com/`,
     social: {
